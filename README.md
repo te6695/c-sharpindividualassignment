@@ -60,4 +60,4 @@ A C# console application simulating emergency unit dispatch. Players manage unit
    Incident: Medical at City Hall
    Ambulance Unit 1 is treating patients at City Hall.
    +10 points
-   Current Score: 30
+   Current Score: 10
