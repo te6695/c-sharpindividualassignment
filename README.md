@@ -5,7 +5,7 @@ ID:   DBU1501501
      Emergency Response Simulation Program
 This program simulates emergency response units handling incidents. The user interacts by entering incident types and locations. The units respond if the incident matches their specialization, earning or losing points for valid or invalid interactions.
 
-Feel free to use this Markdown file or let me know if you need any adjustments!
+
 
 
 
